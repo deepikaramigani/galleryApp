@@ -1,0 +1,18 @@
+/* Write your code here. */
+.thumbnail-inactive {
+  opacity: 0.5;
+}
+.thumbnail-active {
+  opacity: 1;
+}
+.list-style {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.button {
+  margin-right: 20px;
+  border-style: none;
+  border-width: 0px;
+  cursor: pointer;
+  padding: 0px;
+}
